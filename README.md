@@ -1,3 +1,9 @@
+Built with Create-React-App using the following tutorials:
+
+https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
+https://github.com/gitname/react-gh-pages
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
