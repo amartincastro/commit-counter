@@ -1,0 +1,35 @@
+graphql query
+
+
+
+ query { 
+  viewer { 
+    issues {
+      totalCount
+    },
+    repositories {
+      totalCount
+    },
+    contributionsCollection {
+      totalCommitContributions,
+      totalPullRequestContributions,
+      totalIssueContributions,
+      commitContributionsByRepository {
+        repository {
+          name
+        },
+        contributions(last: 100, orderBy: { direction: DESC, field: OCCURRED_AT }) {
+          totalCount,
+          pageInfo {
+            hasNextPage,
+            endCursor
+          },
+          nodes {
+            commitCount,
+            occurredAt
+          }
+        }
+      }
+    }
+  }
+}

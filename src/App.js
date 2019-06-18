@@ -8,16 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          GitHub Commit Counter
+          by <a href="https://www.twitter.com/joelatwar" className="App-link" target="_blank" rel="noopener noreferrer">Joel Guerra</a>, <a href="https://www.twitter.com/sethvoltz"className="App-link" target="_blank" rel="noopener noreferrer">Seth Voltz</a>, and <a href="https://www.twitter.com/amartincastro" className="App-link" target="_blank" rel="noopener noreferrer">Ariel Martin Castro</a>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
