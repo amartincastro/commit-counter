@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/commit-counter/static/css/main.f9c67ae1.chunk.css",
+    "main.js": "/commit-counter/static/js/main.3ab6b8f4.chunk.js",
+    "main.js.map": "/commit-counter/static/js/main.3ab6b8f4.chunk.js.map",
+    "runtime~main.js": "/commit-counter/static/js/runtime~main.8ea712d3.js",
+    "runtime~main.js.map": "/commit-counter/static/js/runtime~main.8ea712d3.js.map",
+    "static/js/2.b41502e9.chunk.js": "/commit-counter/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/commit-counter/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/commit-counter/index.html",
+    "precache-manifest.14802672f3c9d80340112630c32e2247.js": "/commit-counter/precache-manifest.14802672f3c9d80340112630c32e2247.js",
+    "service-worker.js": "/commit-counter/service-worker.js",
+    "static/css/main.f9c67ae1.chunk.css.map": "/commit-counter/static/css/main.f9c67ae1.chunk.css.map",
+    "static/media/logo.svg": "/commit-counter/static/media/logo.5d5d9eef.svg"
+  }
+}
